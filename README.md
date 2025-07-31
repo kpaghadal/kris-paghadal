@@ -8,16 +8,15 @@
 
 - 🔭 I’m currently pursuing B.TECH 👨‍💻
 
-- 🌱 I’m currently learning react,laravel,flutter,php
+- 🌱 I’m currently learning flutter, php, data science
 
-- 📫 How to reach me gorasiyabhoomin8@gmail.com
+- 📫 How to reach me kpaghadal45@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Bhoomin Gorasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bhoomin Gorasiya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Bhoomin Gorasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhoomin Gorasiya" height="30" width="40" /></a>
-<a href="https://fb.com/Bhoomin Gorasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bhoomin Gorasiya" height="30" width="40" /></a>
-<a href="https://instagram.com/bhoomingorasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhoomingorasiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kris paghadal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kris pagadal" height="30" width="40" /></a>
+<a href="https://fb.com/kris paghadal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kris paghadal" height="30" width="40" /></a>
+<a href="https://instagram.com/kris paghadal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kris paghadal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -83,6 +82,6 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Bhoomin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bhoomin" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/kris"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kris" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhoomin&show_icons=true&locale=en&layout=compact" alt="GorasiyaBhoomin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhoomin&show_icons=true&locale=en&layout=compact" alt="kris paghadal" /></p>
